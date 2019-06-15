@@ -5,14 +5,14 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://download.tortoisegit.org/tgit/$version/TortoiseGit-$version-64bit.msi",
-                "https://download.tortoisegit.org/tgit/$version/TortoiseGit-LanguagePack-$version-64bit-zh_CN.msi"
+                "https://download.tortoisegit.org/tgit/2.8.0.0/TortoiseGit-2.8.0.0-64bit.msi",
+                "https://download.tortoisegit.org/tgit/2.8.0.0/TortoiseGit-LanguagePack-2.8.0.0-64bit-zh_CN.msi"
             ]
         },
         "32bit": {
             "url": [                    
-                "https://download.tortoisegit.org/tgit/$version/TortoiseGit-$version-32bit.msi",
-                "https://download.tortoisegit.org/tgit/$version/TortoiseGit-LanguagePack-$version-32bit-zh_CN.msi"
+                "https://download.tortoisegit.org/tgit/2.8.0.0/TortoiseGit-$version-32bit.msi",
+                "https://download.tortoisegit.org/tgit/2.8.0.0/TortoiseGit-LanguagePack-2.8.0.0-32bit-zh_CN.msi"
             ]
         }
     },
